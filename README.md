@@ -31,6 +31,6 @@
 :---------------|:-----------------------|:-------------|
 программный продукта Skyeng|https://oleghv.atlassian.net/l/cp/sF71MQ21| Протестировать вкладку "Расписание"
 Postman-коллекция веб-приложениедля учителей от Skyeng| https://oleghv.atlassian.net/l/cp/sF71MQ21| Создания Postman-коллекции для вкладки "Расписание"|
-
-
+SQL запросы | [файл](https://github.com/Oleg9229/Oleg/blob/main/%D0%A4%D0%B8%D0%BD%D0%B0%D0%BB%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%20%D0%BF%D0%BE%20SQL.sql)https://github.com/Oleg9229/Oleg/blob/main/%D0%A4%D0%B8%D0%BD%D0%B0%D0%BB%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%20%D0%BF%D0%BE%20SQL.sql|Финальное задание
+POSTMAN коллекция|
 ```[почта email] hv.oleg92@mail.ru```
