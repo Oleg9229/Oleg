@@ -57,7 +57,7 @@ TestRail, Jira,
 
 ## 😀 Follow me
 
-[![Header] (hv.oleg92@mail.ru)
+[My email] hv.oleg92@mail.ru
 
 ## 🔧 Языки и инструменты которые я освоил!
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
